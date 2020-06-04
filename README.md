@@ -2,7 +2,7 @@
 
 ## **Installation**
 ```elm
-pip install instapy
+pip install instagrambot
 ```
 __Important:__ depending on your system, make sure to use `pip3` and `python3` instead.
 
