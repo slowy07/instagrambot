@@ -8,7 +8,7 @@ __Important:__ depending on your system, make sure to use `pip3` and `python3` i
 
 
 **That's it! 🚀**   
-If you're on Ubuntu, read the specific guide on [Installing on Ubuntu (64-Bit)](https://github.com/InstaPy/instapy-docs/blob/master/How_Tos/How_To_DO_Ubuntu_on_Digital_Ocean.md). If you're on a Raspberry Pi, read the [Installing on RaspberryPi](https://github.com/InstaPy/instapy-docs/blob/master/How_Tos/How_to_Raspberry.md) guide instead.
+If you're on Ubuntu, read the specific guide on [Installing on Ubuntu (64-Bit)](https://github.com/instagrambot/instagrambot-docs/blob/master/How_Tos/How_To_DO_Ubuntu_on_Digital_Ocean.md). If you're on a Raspberry Pi, read the [Installing on RaspberryPi](https://github.com/instagrambot/instagrambot-docs/blob/master/How_Tos/How_to_Raspberry.md) guide instead.
 
 >If you would like to install a specific version of Instapy you may do so with:
 >```elm
@@ -17,9 +17,9 @@ If you're on Ubuntu, read the specific guide on [Installing on Ubuntu (64-Bit)](
 
 #### Running Instagrambot
 
-To run InstaPy, you'll need to run the **[quickstart](https://github.com/InstaPy/instapy-quickstart)** script you've just downloaded.
+To run InstaPy, you'll need to run the **[quickstart](https://github.com/instagrambot/instagrambot-quickstart)** script you've just downloaded.
 
-- [Here is the easiest **quickstart** script you can use](https://github.com/InstaPy/instapy-quickstart/blob/master/quickstart.py)  
+- [Here is the easiest **quickstart** script you can use](https://github.com/instagrambot/instagrambot-quickstart/blob/master/quickstart.py)  
 
 You can put in your account details now by passing the username and password parameters to the `instagrambot()` function in your **quickstart** script, like so: 
 ```python
