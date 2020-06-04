@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include requirements.txt
+include instagrambot/firefox_extension/arrive.js
+include instagrambot/firefox_extension/manifest.json
+include instagrambot/firefox_extension/content.js
+
+recursive-include instagrambot/icons *
