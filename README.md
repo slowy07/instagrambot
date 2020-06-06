@@ -1,4 +1,4 @@
-# instagrambot
+# instagrambot (work in progess)
 
 ## **Installation**
 ```elm
